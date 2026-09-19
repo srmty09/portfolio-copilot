@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+training/lstm_weights.pt
+.DS_Store
+backend/logs/
